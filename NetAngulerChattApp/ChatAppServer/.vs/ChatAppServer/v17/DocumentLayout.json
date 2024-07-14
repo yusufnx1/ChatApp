@@ -1,0 +1,112 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\hp\\OneDrive\\Masa\u00FCst\u00FC\\NetAngulerChattApp\\ChatAppServer\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3A65DE0A-DF22-4D2D-9323-E81EF15ADE51}|ChatAppServer.WebAPI\\ChatAppServer.WebAPI.csproj|c:\\users\\hp\\onedrive\\masa\u00FCst\u00FC\\netangulerchattapp\\chatappserver\\chatappserver.webapi\\hubs\\chathub.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3A65DE0A-DF22-4D2D-9323-E81EF15ADE51}|ChatAppServer.WebAPI\\ChatAppServer.WebAPI.csproj|solutionrelative:chatappserver.webapi\\hubs\\chathub.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3A65DE0A-DF22-4D2D-9323-E81EF15ADE51}|ChatAppServer.WebAPI\\ChatAppServer.WebAPI.csproj|c:\\users\\hp\\onedrive\\masa\u00FCst\u00FC\\netangulerchattapp\\chatappserver\\chatappserver.webapi\\controllers\\chatscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3A65DE0A-DF22-4D2D-9323-E81EF15ADE51}|ChatAppServer.WebAPI\\ChatAppServer.WebAPI.csproj|solutionrelative:chatappserver.webapi\\controllers\\chatscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3A65DE0A-DF22-4D2D-9323-E81EF15ADE51}|ChatAppServer.WebAPI\\ChatAppServer.WebAPI.csproj|c:\\users\\hp\\onedrive\\masa\u00FCst\u00FC\\netangulerchattapp\\chatappserver\\chatappserver.webapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3A65DE0A-DF22-4D2D-9323-E81EF15ADE51}|ChatAppServer.WebAPI\\ChatAppServer.WebAPI.csproj|solutionrelative:chatappserver.webapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3A65DE0A-DF22-4D2D-9323-E81EF15ADE51}|ChatAppServer.WebAPI\\ChatAppServer.WebAPI.csproj|c:\\users\\hp\\onedrive\\masa\u00FCst\u00FC\\netangulerchattapp\\chatappserver\\chatappserver.webapi\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3A65DE0A-DF22-4D2D-9323-E81EF15ADE51}|ChatAppServer.WebAPI\\ChatAppServer.WebAPI.csproj|solutionrelative:chatappserver.webapi\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3A65DE0A-DF22-4D2D-9323-E81EF15ADE51}|ChatAppServer.WebAPI\\ChatAppServer.WebAPI.csproj|c:\\users\\hp\\onedrive\\masa\u00FCst\u00FC\\netangulerchattapp\\chatappserver\\chatappserver.webapi\\dtos\\sendmessagedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3A65DE0A-DF22-4D2D-9323-E81EF15ADE51}|ChatAppServer.WebAPI\\ChatAppServer.WebAPI.csproj|solutionrelative:chatappserver.webapi\\dtos\\sendmessagedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\OneDrive\\Masa\u00FCst\u00FC\\NetAngulerChattApp\\ChatAppServer\\ChatAppServer.WebAPI\\Program.cs",
+              "RelativeDocumentMoniker": "ChatAppServer.WebAPI\\Program.cs",
+              "ToolTip": "C:\\Users\\hp\\OneDrive\\Masa\u00FCst\u00FC\\NetAngulerChattApp\\ChatAppServer\\ChatAppServer.WebAPI\\Program.cs",
+              "RelativeToolTip": "ChatAppServer.WebAPI\\Program.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAcwBkAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-07T12:22:22.519Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ChatHub.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\OneDrive\\Masa\u00FCst\u00FC\\NetAngulerChattApp\\ChatAppServer\\ChatAppServer.WebAPI\\Hubs\\ChatHub.cs",
+              "RelativeDocumentMoniker": "ChatAppServer.WebAPI\\Hubs\\ChatHub.cs",
+              "ToolTip": "C:\\Users\\hp\\OneDrive\\Masa\u00FCst\u00FC\\NetAngulerChattApp\\ChatAppServer\\ChatAppServer.WebAPI\\Hubs\\ChatHub.cs",
+              "RelativeToolTip": "ChatAppServer.WebAPI\\Hubs\\ChatHub.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-07T12:22:08.008Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "SendMessageDto.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\OneDrive\\Masa\u00FCst\u00FC\\NetAngulerChattApp\\ChatAppServer\\ChatAppServer.WebAPI\\Dtos\\SendMessageDto.cs",
+              "RelativeDocumentMoniker": "ChatAppServer.WebAPI\\Dtos\\SendMessageDto.cs",
+              "ToolTip": "C:\\Users\\hp\\OneDrive\\Masa\u00FCst\u00FC\\NetAngulerChattApp\\ChatAppServer\\ChatAppServer.WebAPI\\Dtos\\SendMessageDto.cs",
+              "RelativeToolTip": "ChatAppServer.WebAPI\\Dtos\\SendMessageDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-07T12:18:02.581Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ChatsController.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\OneDrive\\Masa\u00FCst\u00FC\\NetAngulerChattApp\\ChatAppServer\\ChatAppServer.WebAPI\\Controllers\\ChatsController.cs",
+              "RelativeDocumentMoniker": "ChatAppServer.WebAPI\\Controllers\\ChatsController.cs",
+              "ToolTip": "C:\\Users\\hp\\OneDrive\\Masa\u00FCst\u00FC\\NetAngulerChattApp\\ChatAppServer\\ChatAppServer.WebAPI\\Controllers\\ChatsController.cs",
+              "RelativeToolTip": "ChatAppServer.WebAPI\\Controllers\\ChatsController.cs",
+              "ViewState": "AQIAABsAAAAAAAAAAAAowDIAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-07T11:28:16.327Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\OneDrive\\Masa\u00FCst\u00FC\\NetAngulerChattApp\\ChatAppServer\\ChatAppServer.WebAPI\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "ChatAppServer.WebAPI\\Controllers\\AuthController.cs",
+              "ToolTip": "C:\\Users\\hp\\OneDrive\\Masa\u00FCst\u00FC\\NetAngulerChattApp\\ChatAppServer\\ChatAppServer.WebAPI\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "ChatAppServer.WebAPI\\Controllers\\AuthController.cs",
+              "ViewState": "AQIAAAcAAAAAAAAAAAAiwBgAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-07T11:29:54.042Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
